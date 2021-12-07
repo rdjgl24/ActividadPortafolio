@@ -1,0 +1,38 @@
+body {
+  font-family: 'Ubuntu',
+    sans-serif;
+}
+
+.fa-github:hover {
+  color: #171515;
+}
+
+.fa-facebook:hover {
+  color: dodgerblue;
+}
+
+.fa-instagram:hover {
+  color: deeppink;
+}
+
+#sobreMi {
+  color: white;
+  display: flex;
+  position: relative;
+  float: none;
+  bottom: 51px;
+}
+
+.col-2 {
+  background-color: #17202A;
+}
+
+#boton {
+  border: solid 1px #212529;
+  color: white;
+}
+
+#boton:hover {
+  background-color: #212529;
+
+}
